@@ -18,7 +18,7 @@ This project demonstrates a logistics data-preprocessing pipeline using Python. 
 - Min-Max normalization
 
 ## Files
-- `Week_2_Data_Preprocessing_Report.docx` - final report
+- `Week_2_Data_Preprocessing_Report_FINAL.docx` - final report
 - `week2_preprocessing.py` - complete preprocessing script
 - `logistics_week2_raw_dataset.csv` - raw simulated dataset
 
